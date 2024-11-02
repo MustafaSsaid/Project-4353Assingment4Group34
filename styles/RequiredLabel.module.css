@@ -1,0 +1,8 @@
+/* src/styles/RequiredLabel.module.css */
+.label {
+    font-weight: bold;
+}
+
+.asterisk {
+    color: red;
+}
